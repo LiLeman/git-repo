@@ -1,1 +1,3 @@
+class Haha(){
 print(Hello bro!)
+}
